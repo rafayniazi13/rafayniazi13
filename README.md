@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a Software Engineering student at COMSATS University Wah Campus with a strong foundation in Python programming and core software engineering principles. I have a passion for AI and Computer Vision. I recently completed a Retrieval-Augmented Generation (RAG) system for technical documentation, utilizing GPT-3.5, semantic search, FAISS, and FastAPI. My focus is on solving real-world problems with machine learning, and I’m dedicated to writing clean, efficient, and maintainable code.
 
 
